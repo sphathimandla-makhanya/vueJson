@@ -81,7 +81,7 @@
         },
         {
             "name": "Calculator", 
-            "img": "https://i.ibb.co/W65P7Sr/Screenshot-2024-01-10-100307.png",
+            "img": "https://i.ibb.co/VSs7GsJ/Screenshot-2024-01-12-100522.png",
             "github": "https://github.com/sphathimandla-makhanya/Calculator.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://calculator-nx2h.vercel.app/",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Hex to RGB", 
-            "img": "https://i.ibb.co/GVKWJ2K/Screenshot-2024-01-10-101002.png",
+            "img": "https://i.ibb.co/wCHMBd3/Screenshot-2024-01-12-100208.png",
             "github": "https://github.com/sphathimandla-makhanya/hexToRGB.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://hex-to-rgb-mu.vercel.app/",
