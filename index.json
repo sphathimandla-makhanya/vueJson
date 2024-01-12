@@ -43,35 +43,35 @@
     "skills":[
         {
             "name": "HTML",
-            "img":"https://drive.google.com/uc?export=download&id=1WuUUuOVl6O-6Y8D5MMDRWaYjec_woJlU"
+            "img":"https://i.ibb.co/KWLWsth/icons8-html-240.png"
         },
         {
             "name": "CSS",
-            "img":"https://drive.google.com/uc?export=download&id=1yPCheAEA7-Fi_BEUPbW6m9-EHQKBN10e"
+            "img":"https://i.ibb.co/Y0kCH5q/icons8-css-240.png"
         },
         {
             "name": "BOOTSTRAP",
-            "img":"https://drive.google.com/uc?export=download&id=1ydCoo1sZ5WjK19z4KD2IrqDNmY19IDR6"
+            "img":"https://i.ibb.co/xF76jBw/icons8-bootstrap-240.png"
         },
         {
             "name": "JAVASCRIPT",
-            "img":"https://drive.google.com/uc?export=download&id=11sSC20chByKGpsD2w2YYTlxV5T-aDha-"
+            "img":"https://i.ibb.co/gRKrwsf/icons8-javascript-240.png"
         },
         {
             "name": "fIGMA",
-            "img":"https://drive.google.com/uc?export=download&id=1C60AlUzrjy3qKgt3qlgh6ikExrwm-dxG"
+            "img":"https://i.ibb.co/3MNRNjd/download.png"
         },
         {
             "name": "Vue.js",
-            "img":"https://drive.google.com/uc?export=download&id=1Ol-SKbmHRrxqo_WuXZi6soeh2ipphjIE"
+            "img":"https://i.ibb.co/g49wrNc/icons8-vue-js-240.png" 
         },
         {
             "name": "ArcGIS",
-            "img":"https://drive.google.com/uc?export=download&id=16cBHYNRRm1j0Ay08kiyIZu2zlwrk4zLe"
+            "img":"https://i.ibb.co/2ZBtJXD/download.jpg"
         },
         {
             "name": "QGIS",
-            "img":"https://drive.google.com/uc?export=download&id=1lyTXNPlQd1V2mRKoavvqv_-UWUSEjzEd"
+            "img":"https://i.ibb.co/6y3XzLP/download.png"
         }
     ],
     "projects":[
