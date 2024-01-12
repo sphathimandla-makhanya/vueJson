@@ -23,35 +23,43 @@
     "skills":[
         {
             "name": "HTML",
-            "img":"https://i.ibb.co/KWLWsth/icons8-html-240.png"
+            "img":"https://i.ibb.co/KWLWsth/icons8-html-240.png",
+            "description": "Intermediate"
         },
         {
             "name": "CSS",
-            "img":"https://i.ibb.co/Y0kCH5q/icons8-css-240.png"
+            "img":"https://i.ibb.co/Y0kCH5q/icons8-css-240.png",
+            "description": "Intermediate"
         },
         {
             "name": "BOOTSTRAP",
-            "img":"https://i.ibb.co/xF76jBw/icons8-bootstrap-240.png"
+            "img":"https://i.ibb.co/xF76jBw/icons8-bootstrap-240.png",
+            "description": "Intermediate"
         },
         {
             "name": "JAVASCRIPT",
-            "img":"https://i.ibb.co/gRKrwsf/icons8-javascript-240.png"
+            "img":"https://i.ibb.co/gRKrwsf/icons8-javascript-240.png",
+            "description": "Intermediate"
         },
         {
             "name": "fIGMA",
-            "img":"https://i.ibb.co/3MNRNjd/download.png"
+            "img":"https://i.ibb.co/3MNRNjd/download.png",
+            "description": "Intermediate"
         },
         {
             "name": "Vue.js",
-            "img":"https://i.ibb.co/g49wrNc/icons8-vue-js-240.png" 
+            "img":"https://i.ibb.co/g49wrNc/icons8-vue-js-240.png",
+            "description": "Intermediate"
         },
         {
             "name": "ArcGIS",
-            "img":"https://i.ibb.co/2ZBtJXD/download.jpg"
+            "img":"https://i.ibb.co/2ZBtJXD/download.jpg",
+            "description": "Intermediate"
         },
         {
             "name": "QGIS",
-            "img":"https://i.ibb.co/6y3XzLP/download.png"
+            "img":"https://i.ibb.co/6y3XzLP/download.png",
+            "description": "Intermediate"
         }
     ],
     "projects":[
