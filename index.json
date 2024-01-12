@@ -1,29 +1,9 @@
 {
-    "navbar":[
-        {
-            "id": "1", "link":"/home", "text": "Home"
-        },
-        {
-            "id": "1", "link":"/about", "text": "About"
-        },
-        {
-            "id": "1", "link":"/resume", "text": "Resume"
-        },
-        {
-            "id": "1", "link":"/project", "text": "Projects"
-        },
-        {
-            "id": "1", "link":"/review", "text": "Reviews"
-        },
-        {
-            "id": "1", "link":"/contact", "text": "Contacts"
-        }
-    ],
     "about": [
         {
             "heading": "About me",
             "description":"I am a polite and open minded young man who is passionate about life long learning. I live in Cape Town, Langa. I am looking for opportunity that will allow me to utilize my knowledge, skills and experience and allow me an opportunity for growth and career advancement.",
-            "img":"https://drive.google.com/uc?export=download&id=1UNBDmRVYIq1v0dtL1oyqlEyTKx8rs8l9"
+            "img":"https://i.ibb.co/9gH3D1p/Sphathimandla.jpg"
         }
     ],
     "resume": [
@@ -31,13 +11,13 @@
             "heading": "Education",
             "description": "I graduated high school in 2015 at Siphapheme High School. I attended University of Zululand for a bachelor of Science majoring in Geographical and Hydrological Sciences (2019).",
             "currently":"Currently studing Web Development at Life Choices Academy",
-            "img1": "https://drive.google.com/uc?id=1wXtWBjnLDSS4O7cVq9JjzoHcm7mUSfjz"
+            "img1": "https://i.ibb.co/kqDhrr8/42972.png"
         },
         {
 
             "heading1": "Experience",
             "description1": "Department of Agriculture, Land Reform and Rural Development At Chief Directorate: National Geo-Spatial Information Geographical Information Systems Intern (2021-2023). Impunga High School Educators assistant (2020)",
-            "img2": "https://drive.google.com/uc?id=15z66x9Y0sq-ZEnGTDoUQRMBxrn14obQo"
+            "img2": "https://i.ibb.co/DWgnmpp/2343257.png"
         }       
     ],
     "skills":[
@@ -79,49 +59,49 @@
             "name": "Ecommerce Website", 
             "img": "https://i.ibb.co/tMQcvTT/Screenshot-2024-01-10-093452.png",
             "github": "https://github.com/sphathimandla-makhanya/jsEcommerceProjectSM.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://js-ecommerce-project-sm.vercel.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
             "name": "To do list", 
             "img": "https://i.ibb.co/jLcB6w3/Screenshot-2024-01-11-100637.png",
             "github": "https://github.com/sphathimandla-makhanya/toDoList.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://to-do-list-gamma-inky.vercel.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
             "name": "First Portfolio", 
             "img": "https://i.ibb.co/TL5qDPc/Screenshot-2024-01-10-100003.png",
             "github": "https://github.com/sphathimandla-makhanya/portfolioSMakhanya.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://portfolio-s-makhanya-7lvb.vercel.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
             "name": "Calculator", 
             "img": "https://i.ibb.co/W65P7Sr/Screenshot-2024-01-10-100307.png",
             "github": "https://github.com/sphathimandla-makhanya/Calculator.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://calculator-nx2h.vercel.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
             "name": "Hex to RGB", 
             "img": "https://i.ibb.co/GVKWJ2K/Screenshot-2024-01-10-101002.png",
             "github": "https://github.com/sphathimandla-makhanya/hexToRGB.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://hex-to-rgb-mu.vercel.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
             "name": "Fastfood ecommerce", 
             "img": "https://i.ibb.co/4KC6B5c/Screenshot-2024-01-10-101817.png",
             "github": "https://github.com/sphathimandla-makhanya/ecommerce.git",
-            "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
+            "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://ephemeral-torte-893c45.netlify.app/",
-            "vercelLogo":"https://drive.google.com/uc?export=download&id=1JOJpOS8HV_OyjyoE1-Wo3Zds-3xsosb-"
+            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         }
 
     ],
@@ -129,32 +109,32 @@
         {
             "person":"Damon Raffels",
             "review": "S'phathimandla Makhanya is an extremely helpful, approachable man who fills any room with joy. He has an infectious personality that will never fail to cheer you up. He has a strong work ethic and intense focus when it comes to tasks and projects and will be an asset to any workforce",
-            "img": "https://drive.google.com/uc?id=1WX0ElSytU18dSRlKPrXYeHkJePMsmCmY"
+            "img": "https://i.ibb.co/5jtzmLM/IMG-20211025-134530-422-1.jpg"
         },
         {
             "person":"Qaqambile Mnika",
             "review": "S’phathimandla Makhanya is a rare blend of quiet determination and brilliant coding talent. His ability to solve complex problems with elegant code is truly remarkable. Despite his quiet demeanor, he has a subtle sense of humor that lightens up our work environment. Yet, when the situation calls for it, he can switch to a serious mode, demonstrating a level of focus and dedication that is truly inspiring. His contributions to our team are invaluable and it’s a privilege to work alongside him.",
-            "img": "https://drive.google.com/uc?id=1PDWMWFSu3ATtnhsiWNhBjcBRshLSqQCB"
+            "img": "https://i.ibb.co/c2tXm12/C13-Portfolio-picture-1.png"
         },
         {
             "person":"Tauha Shaik",
             "review": "S'phathimandla Makhanya is a exceptional individual. His calm and focused demeanor is an asset to him both in his relations with his colleagues as well as his work. His work ethic is impeccable and strive for excellence drives him him forward. Due to his kind nature his assistance can always be called upon and he is an asset to all those around him.",
-            "img": "https://drive.google.com/uc?id=1iatufANepcVIQb0IcOTqdsvSn2pMB7xr"
+            "img": "https://i.ibb.co/kBkQvJp/20231103-221102-01.jpg"
         },
         {
             "person":"Onika Sileku",
             "review": "S'phathimandla Makhanya enthusiasm for web development is admirable. his dedication to honing his skills and mastering different coding languages is truly inspiring. he approaches tasks with a creative mindset and a keen eye for functionality",
-            "img": "https://drive.google.com/uc?id=1UgPktEARSd5IMo_RzfxHTgAbG9ViK9ZK"
+            "img": "https://i.ibb.co/sPPGHyn/onika-2.jpg"
         },
         {
             "person":"Matthew Dean Brown",
             "review": "S'phathimandla is a humble and dedicated individual. He shows consistency and hard work. He is extremely reliable and trustworthy.",
-            "img": "https://drive.google.com/uc?id=1rHJNwWto4HTTyGew7ky732NmTnppolBf"
+            "img": "https://i.ibb.co/1L1YbSy/Matthew-no-Bg.png"
         },
         {
             "person":"Caela Morgan Ward",
             "review": "S'phathimandla is a hard working individual who gives his best for any task given to him. He is known for always trying to help others and giving his best potential for anything he does. S'phathimandla is a self motivated person who knows when to be focused or when to relax. He is truly an asset to have around.",
-            "img": "https://drive.google.com/uc?id=1Cac_ZgS6-XV-cuV_1faHHJ3iUBpkv_o6"
+            "img": "https://i.ibb.co/zGVmppd/callaImg.jpg"
         }
     ], 
     "contacts": [
