@@ -77,7 +77,7 @@
     "projects":[
     {
             "name": "Ecommerce Website", 
-            "img": "https://ibb.co/fYZVbQk",
+            "img": "https://i.ibb.co/tMQcvTT/Screenshot-2024-01-10-093452.png",
             "github": "https://github.com/sphathimandla-makhanya/jsEcommerceProjectSM.git",
             "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
             "vercel": "https://js-ecommerce-project-sm.vercel.app/",
@@ -85,7 +85,7 @@
         },
         {
             "name": "To do list", 
-            "img": "https://cdn-thumbs.imagevenue.com/1b/e3/bf/ME17GMC5_t.png",
+            "img": "https://i.ibb.co/jLcB6w3/Screenshot-2024-01-11-100637.png",
             "github": "https://github.com/sphathimandla-makhanya/toDoList.git",
             "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
             "vercel": "https://to-do-list-gamma-inky.vercel.app/",
@@ -93,7 +93,7 @@
         },
         {
             "name": "First Portfolio", 
-            "img": "https://drive.google.com/uc?export=download&id=1pPoH2IpZS5XsPVqIw8rXd36HWB2krqso",
+            "img": "https://i.ibb.co/TL5qDPc/Screenshot-2024-01-10-100003.png",
             "github": "https://github.com/sphathimandla-makhanya/portfolioSMakhanya.git",
             "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
             "vercel": "https://portfolio-s-makhanya-7lvb.vercel.app/",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Calculator", 
-            "img": "https://imgur.com/a/tXVDTml",
+            "img": "https://i.ibb.co/W65P7Sr/Screenshot-2024-01-10-100307.png",
             "github": "https://github.com/sphathimandla-makhanya/Calculator.git",
             "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
             "vercel": "https://calculator-nx2h.vercel.app/",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Hex to RGB", 
-            "img": "https://drive.google.com/uc?export=download&id=1rGwlCf4BgAJIkAt-YZJlKEi0a4q1xO05",
+            "img": "https://i.ibb.co/GVKWJ2K/Screenshot-2024-01-10-101002.png",
             "github": "https://github.com/sphathimandla-makhanya/hexToRGB.git",
             "githubLogo":"https://drive.google.com/uc?export=download&id=1Gt_6GkUEQjpjF1N6cCDGoeZjO4d3z6zr",
             "vercel": "https://hex-to-rgb-mu.vercel.app/",
