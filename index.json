@@ -43,7 +43,7 @@
             "description": "Intermediate"
         },
         {
-            "name": "fIGMA",
+            "name": "FIGMA",
             "img":"https://i.ibb.co/3MNRNjd/download.png",
             "description": "Intermediate"
         },
@@ -66,6 +66,7 @@
     "projects":[
     {
             "name": "Ecommerce Website", 
+            "description":"JavaScript ecommerce",
             "img": "https://i.ibb.co/tMQcvTT/Screenshot-2024-01-10-093452.png",
             "github": "https://github.com/sphathimandla-makhanya/jsEcommerceProjectSM.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
@@ -74,6 +75,7 @@
         },
         {
             "name": "To do list", 
+            "description":"JavaScript todo list",
             "img": "https://i.ibb.co/jLcB6w3/Screenshot-2024-01-11-100637.png",
             "github": "https://github.com/sphathimandla-makhanya/toDoList.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
@@ -82,6 +84,7 @@
         },
         {
             "name": "First Portfolio", 
+            "description":"Bootstrap portfolio",
             "img": "https://i.ibb.co/TL5qDPc/Screenshot-2024-01-10-100003.png",
             "github": "https://github.com/sphathimandla-makhanya/portfolioSMakhanya.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
@@ -90,6 +93,7 @@
         },
         {
             "name": "Calculator", 
+            "description":"JavaScript simple calculator",
             "img": "https://i.ibb.co/VSs7GsJ/Screenshot-2024-01-12-100522.png",
             "github": "https://github.com/sphathimandla-makhanya/Calculator.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
@@ -97,7 +101,8 @@
             "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
-            "name": "Hex to RGB", 
+            "name": "Hex to RGB",
+            "description":"JavaScript hex converter",
             "img": "https://i.ibb.co/wCHMBd3/Screenshot-2024-01-12-100208.png",
             "github": "https://github.com/sphathimandla-makhanya/hexToRGB.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
@@ -105,7 +110,8 @@
             "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
         },
         {
-            "name": "Fastfood ecommerce", 
+            "name": "Fastfood Ecommerce",
+            "description":"HTML and CSS ecommerce",
             "img": "https://i.ibb.co/4KC6B5c/Screenshot-2024-01-10-101817.png",
             "github": "https://github.com/sphathimandla-makhanya/ecommerce.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
