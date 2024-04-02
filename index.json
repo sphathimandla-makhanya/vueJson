@@ -24,42 +24,42 @@
     "skills":[
         {
             "name": "HTML",
-            "img":"https://i.ibb.co/KWLWsth/icons8-html-240.png",
+            "img":"https://i.ibb.co/BfbZHf4/1051328.png",
             "description": "Intermediate"
         },
         {
             "name": "CSS",
-            "img":"https://i.ibb.co/Y0kCH5q/icons8-css-240.png",
+            "img":"https://i.ibb.co/BqB1gtv/732007.png",
             "description": "Intermediate"
         },
         {
             "name": "BOOTSTRAP",
-            "img":"https://i.ibb.co/xF76jBw/icons8-bootstrap-240.png",
+            "img":"https://i.ibb.co/0Bz3C3X/5968671.png",
             "description": "Intermediate"
         },
         {
             "name": "JAVASCRIPT",
-            "img":"https://i.ibb.co/gRKrwsf/icons8-javascript-240.png",
+            "img":"https://i.ibb.co/6W6Z1Sc/721671.png",
             "description": "Intermediate"
         },
         {
             "name": "FIGMA",
-            "img":"https://i.ibb.co/3MNRNjd/download.png",
+            "img":"https://i.ibb.co/5BK2mcY/11783485.png",
             "description": "Intermediate"
         },
         {
             "name": "Vue.js",
-            "img":"https://i.ibb.co/g49wrNc/icons8-vue-js-240.png",
+            "img":"https://i.ibb.co/qFqm30R/14402422.png",
             "description": "Intermediate"
         },
         {
             "name": "MySQL",
-            "img":"https://i.ibb.co/cb7XGhg/288882.png",
+            "img":"https://i.ibb.co/ckL7YV4/5968521.png",
             "description": "Intermediate"
         },
         {
             "name": "Node.js",
-            "img":"https://i.ibb.co/mcnpB2R/919825.png",
+            "img":"https://i.ibb.co/wCBjcXs/240-F-335625746-7-Sa8-CLJRFYCHim-CWJIafv-RXFH1sr-LJv-J.jpg",
             "description": "Intermediate"
         }
     ],
