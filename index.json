@@ -53,13 +53,13 @@
             "description": "Intermediate"
         },
         {
-            "name": "ArcGIS",
-            "img":"https://i.ibb.co/2ZBtJXD/download.jpg",
+            "name": "MySQL",
+            "img":"https://i.ibb.co/vZbKPpc/mysql-icon-simple-flat-on-260nw-2424305041.webp",
             "description": "Intermediate"
         },
         {
-            "name": "QGIS",
-            "img":"https://i.ibb.co/6y3XzLP/download.png",
+            "name": "Node.js",
+            "img":"https://i.ibb.co/PxvT1Pw/node-js-framework-web-development-260nw-1740811286.webp",
             "description": "Intermediate"
         }
     ],
