@@ -10,9 +10,18 @@
     "resume": [
         {
             "heading": "Education",
-            "description": "I graduated high school in 2015 at Siphapheme High School. I attended University of Zululand for a bachelor of Science majoring in Geographical and Hydrological Sciences (2019).",
-            "currently":"Currently studing Web Development at Life Choices Academy",
-            "img1": "https://i.ibb.co/kqDhrr8/42972.png"
+            "Course": "Fullstack Web Development",
+            "institution": "Life Choices Academy (2024)"
+        },
+        {
+            
+            "Course": "Matric",
+            "institution":"Siphapheme High School (2015)",
+        },
+        {
+            "Course": "Bachelor of Science in Geography and Hydrology",
+            "institution": "University of Zululand(2019).",
+            "img1": "https://i.ibb.co/F5yQFYj/graduation-hat-and-diploma.png"
         },
         {
 
