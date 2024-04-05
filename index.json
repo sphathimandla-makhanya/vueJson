@@ -68,8 +68,8 @@
             "img": "https://i.ibb.co/TvdRz5f/Screenshot-2024-03-31-091923.png",
             "github": "https://github.com/sphathimandla-makhanya/Calculator.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
-            "vercel": "https://calculator-nx2h.vercel.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercel": "https://capstone-49b4c.firebaseapp.com",
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         },
         {
             "name": "Ecommerce Website", 
@@ -78,7 +78,7 @@
             "github": "https://github.com/sphathimandla-makhanya/jsEcommerceProjectSM.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://js-ecommerce-project-sm.vercel.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         },
         {
             "name": "To do list", 
@@ -87,7 +87,7 @@
             "github": "https://github.com/sphathimandla-makhanya/toDoList.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://to-do-list-gamma-inky.vercel.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         },
         {
             "name": "First Portfolio", 
@@ -96,7 +96,7 @@
             "github": "https://github.com/sphathimandla-makhanya/portfolioSMakhanya.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://portfolio-s-makhanya-7lvb.vercel.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         },
         {
             "name": "Hex to RGB",
@@ -105,7 +105,7 @@
             "github": "https://github.com/sphathimandla-makhanya/hexToRGB.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://hex-to-rgb-mu.vercel.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         },
         {
             "name": "Fastfood Ecommerce",
@@ -114,7 +114,7 @@
             "github": "https://github.com/sphathimandla-makhanya/ecommerce.git",
             "githubLogo":"https://i.ibb.co/BP1w1RD/3291695.png",
             "vercel": "https://ephemeral-torte-893c45.netlify.app/",
-            "vercelLogo":"https://i.ibb.co/d4PcH2P/download-1.png"
+            "vercelLogo":"https://i.ibb.co/DWxwnYC/external-link.png"
         }
 
     ],
