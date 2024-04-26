@@ -87,8 +87,8 @@
         },
         {
             "name": "To do list", 
-            "description":"JavaScript Todo List",
-            "img": "https://i.ibb.co/jLcB6w3/Screenshot-2024-01-11-100637.png",
+            "description":"Node.js and Express.js",
+            "img": "https://i.ibb.co/KjMPN6r/Screenshot-2024-04-26-123055.png",
             "github": "https://github.com/sphathimandla-makhanya/toDoList.git",
             "githubLogo":"https://i.ibb.co/FYRncsr/github-2.png",
             "vercel": "https://to-do-list-gamma-inky.vercel.app/",
