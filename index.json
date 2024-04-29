@@ -64,7 +64,13 @@
             "name": "Git",
             "img":"https://i.ibb.co/2gYxYDM/9357447.png",
             "description": "Intermediate"
+        },
+        {
+            "name": "Scrum",
+            "img":"https://i.ibb.co/J7H7Yg8/SCRUM-1.png",
+            "description": "Intermediate"
         }
+        
     ],
     "projects":[
         {
